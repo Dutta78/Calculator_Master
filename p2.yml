@@ -1,7 +1,8 @@
+
 ---
 - name: Pull docker image of Calculator
   hosts: all
-tasks:
+  tasks:
     - name: Start docker service
       service:
         name: docker
