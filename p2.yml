@@ -7,5 +7,4 @@
         name: docker
         state: started
 
-    - name: pull docker image
-      shell: docker pull dutta78/calculator
+   
