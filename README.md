@@ -1,4 +1,2 @@
-Adding Readme
-updating chnages1.0
-changes
+This Project is For the demostration of how DevOps Tools work and coordinate with each other.
 # Calculator_Master
